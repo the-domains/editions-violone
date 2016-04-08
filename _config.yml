@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4280344
 color:
-  saturation: 0.9527473
-  brandStrength: 0.991732
-  lightness: 0.6102224
+  saturation: 0.4838883
+  brandStrength: 1
+  lightness: 0.339957
   brandColors:
-    - '#0E0E0E'
-    - '#FFFFFF'
-    - '#BDBDB4'
-    - '#B48877'
-    - '#E06641'
+    - '#766E6E'
+    - '#27201E'
+    - '#F25C1F'
+    - '#FBC66E'
+    - '#FFF2B4'
   rhythmicContrast: 0.3495995
 layout_spectrum: 0.255102
 name: Editions Violone
