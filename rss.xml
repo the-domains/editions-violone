@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Editions Violone]]></title>
         <description><![CDATA[Editions Violone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/editions-violone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 01:28:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 01:30:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/editions-violone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca3bd53-aacb-49c3-a77b-5ec607d22534.png">]]></description>
-            <link>undefined8cbc7908-fe78-4b28-9dd3-ccc1b105bff8/index.html</link>
+            <link>https://thegrid.ai/editions-violone/8cbc7908-fe78-4b28-9dd3-ccc1b105bff8/index.html</link>
             <guid isPermaLink="false">8cbc7908-fe78-4b28-9dd3-ccc1b105bff8</guid>
             <pubDate>Fri, 08 Apr 2016 01:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9018f92c-5de7-4b3b-8d62-0b48c6d369ea.png">]]></description>
+            <link>https://thegrid.ai/editions-violone/f6f6ae4d-1f1d-47ff-8878-094b803adb6b/index.html</link>
+            <guid isPermaLink="false">f6f6ae4d-1f1d-47ff-8878-094b803adb6b</guid>
+            <pubDate>Fri, 08 Apr 2016 01:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
